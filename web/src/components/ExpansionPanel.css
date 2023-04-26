@@ -1,0 +1,18 @@
+.heading {
+  font-size: 15px;
+  flex-basis: 33.33%;
+  flex-shrink: 0;
+}
+
+.secondaryHeading {
+  font-size: 15px;
+  color: #999;
+}
+
+.expansionPanelDetails {
+  display: block;
+}
+
+.expansionPanelDetails h3 {
+  width: 100%;
+}
